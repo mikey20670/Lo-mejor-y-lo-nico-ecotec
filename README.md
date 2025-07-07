@@ -1,8 +1,5 @@
 # Lo-mejor-y-lo-nico-ecotec
 
-
-# Lo mejor y lo único ecotec
-
 Me presento, mi nombre es Miguel Hinojosa, estudiante de Ingeniería en Sistemas Inteligentes con enfoque especializado en subneteo de redes VLAN.
 
 
